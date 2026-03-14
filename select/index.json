@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "25",
+  "base_artist": "eill",
+  "createdAt": "2026-03-14T13:10:46.790521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "25 New Ways to Regress",
+      "artist": "Kurt Travis",
+      "has_synced": false,
+      "path": "select/01_25_New_Ways_to_Regress_Kurt_Travis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "25 To Life",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_25_To_Life_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Matthew 25:21",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/03_Matthew_25_21_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NYC - 25",
+      "artist": "The Olivia Tremor Control",
+      "has_synced": true,
+      "path": "select/04_NYC_-_25_The_Olivia_Tremor_Control.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NYC -25",
+      "artist": "The Olivia Tremor Control",
+      "has_synced": false,
+      "path": "select/05_NYC_-25_The_Olivia_Tremor_Control.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Want Your (Hands On Me) - BBC Radio One's ''In Concert'', The Hammersmith Odeon 25/5/90",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/06_I_Want_Your_(Hands_On_Me)_-_BBC_Radio_One's_''In_Concert'',_The_Hammersmith_Odeo_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Section 25 [Younger Yesterday]",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/07_Section_25_[Younger_Yesterday]_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "25 million",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/08_25_million_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "25:17",
+      "artist": "Tomcraft",
+      "has_synced": true,
+      "path": "select/09_25_17_Tomcraft.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hetzjagd auf Nazis! (Live in Berlin 25.2.1994)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/10_Hetzjagd_auf_Nazis!_(Live_in_Berlin_25.2.1994)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "24-25",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/11_24-25_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "25 (Reprise)",
+      "artist": "The Amazons",
+      "has_synced": true,
+      "path": "select/12_25_(Reprise)_The_Amazons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Packin' .25",
+      "artist": "Porno for Pyros",
+      "has_synced": true,
+      "path": "select/13_Packin'_.25_Porno_for_Pyros.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "25 Bucks",
+      "artist": "Danny Brown feat. Purity Ring",
+      "has_synced": true,
+      "path": "select/14_25_Bucks_Danny_Brown_feat._Purity_Ring.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "25 Bucks (feat. Purity Ring)",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/15_25_Bucks_(feat._Purity_Ring)_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "25 O’Clock",
+      "artist": "The Dukes of Stratosphear",
+      "has_synced": true,
+      "path": "select/16_25_O’Clock_The_Dukes_of_Stratosphear.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "25 O'Clock",
+      "artist": "The Dukes of Stratosphear",
+      "has_synced": true,
+      "path": "select/17_25_O'Clock_The_Dukes_of_Stratosphear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "25",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_25_eill.txt"
+    }
+  ]
+}
