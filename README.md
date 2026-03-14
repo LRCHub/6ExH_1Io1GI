@@ -1,0 +1,64 @@
+# eill – 25
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Best friends got married and now "mommy"
+私は部屋も片付かない baby
+夢は叶いつつ unhappy
+How beautiful 難しきこの life
+現実/理想の狭間
+ジェンガ壊す時よ今
+時代はあなたを測るものさし持ってない
+自分に優しくするほど
+敵も味方も増えるもの
+Back to 20
+想像してた未来はずっと大人だった
+こんなもんでいいのかって
+I say "hell yeah"
+We are 25
+Don't need to overthink it
+I'm Pretty fine
+#YOLO (You only live once)
+swag swag
+25
+Da-na-na-na yeah
+Da-na-na-na yeah
+I don't give a xxxx
+25
+Had a bad hangover yet
+I'm Pretty fine
+#YOLO (You only live once)
+swag swag
+25
+Da-na-na-na yeah
+Da-na-na-na yeah
+I don't give a xxxx
+25
+Bad things ばかりじゃない
+パリでシャネル
+落ち込むことそう無い
+憧れのあの子にもlyrics
+譲らないで I win
+世間知らず wine は美味しい
+自分を嫌いになるほど
+敵には都合のいいもの
+Back to 20
+想像してた未来よりずっと綺麗だね
+こんなもんでいいのかって
+I say "hell yeah"
+25…
+We are 25
+Don't need to overthink it
+I'm Pretty fine
+#YOLO (You only live once)
+swag swag
+25
+Da-na-na-na yeah
+Da-na-na-na yeah
+I don't give a xxxx
+Best friends got married and now "mommy"
+私は部屋も片付かない baby
+But 誰がなんと言おうが happy
+How beautiful 素晴らしき このlife
+```
